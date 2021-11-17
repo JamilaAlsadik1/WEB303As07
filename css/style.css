@@ -1,0 +1,18 @@
+body > .photo-viewer{
+    display: none;
+}
+.modal {
+    position: absolute;
+    z-index: 1000;
+    background-color:rgb(165,42,42,0.8);
+    padding: 16px;
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+html{
+    background-color: lightblue;
+}
+body{
+    margin:12px auto;
+    max-width: 970px;
+}
